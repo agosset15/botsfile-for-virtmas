@@ -1,0 +1,4 @@
+ssh -i ~/.ssh/vm_key ag15@84.201.161.131
+
+
+AGosset15_admin

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ag15's ADVBot/Bot"
+version = "0.1.0"
+description = ""
+authors = ["Agosset15 <ag@agosset.ru>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8.0,<3.9"
+numpy = "^1.22.2"
+aiogram = "^2.19"
+replit = "^3.2.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
